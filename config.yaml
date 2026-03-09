@@ -1,0 +1,10 @@
+# ENVIRONMENT SETTINGS
+base_url: "https://www.demoblaze.com"
+api_base_url: "https://api.demoblaze.com"
+
+# BROWSER SETTINGS
+browser: "chromium"
+headless: false
+timeout: 30000 
+
+default_user: "standard_user"
