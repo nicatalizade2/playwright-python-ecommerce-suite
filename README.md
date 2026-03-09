@@ -11,7 +11,6 @@ An end-to-end automation framework designed for the **DemoBlaze** platform. This
 Below is the high-level system design of the testing environment:
 
 ![Architecture Diagram](./architecture.png) 
-*Note: Ensure your PNG file is named 'architecture.png' and is in the root of your repo.*
 
 ---
 
