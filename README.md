@@ -16,7 +16,7 @@ Below is the high-level system design of the testing environment:
   <img src="[https://github.com](https://github.com/user-attachments/assets/a366cef9-3d7b-43d2-be31-a2f5f1e1c600)" width="1024" alt="Architecture Diagram">
 </a>) 
 
-
+[![Architecture Diagram](https://github.com)]([https://github.com](https://github.com/user-attachments/assets/a366cef9-3d7b-43d2-be31-a2f5f1e1c600)))
 
 
 ---
