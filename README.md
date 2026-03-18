@@ -1,5 +1,8 @@
 # 🛒 DemoBlaze Modern Playwright Framework
 
+[![Watch the video](https://img.youtube.com)](https://www.youtube.com/watch?v=q0QEf08jnb4&t=1s)
+
+
 [![Python](https://img.shields.io)](https://www.python.org)
 [![Playwright](https://img.shields.io)](https://playwright.dev)
 [![Docker](https://img.shields.io)](https://www.docker.com)
