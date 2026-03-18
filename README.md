@@ -12,7 +12,11 @@ An end-to-end automation framework designed for the **DemoBlaze** platform. This
 ## 🏗️ Architecture & Workflow
 Below is the high-level system design of the testing environment:
 
-![Architecture Diagram](<img width="1024" height="1536" alt="architecture" src="https://github.com/user-attachments/assets/a366cef9-3d7b-43d2-be31-a2f5f1e1c600" />) 
+![Architecture Diagram](<a href="https://github.com">
+  <img src="[https://github.com](https://github.com/user-attachments/assets/a366cef9-3d7b-43d2-be31-a2f5f1e1c600)" width="1024" alt="Architecture Diagram">
+</a>) 
+
+
 
 
 ---
