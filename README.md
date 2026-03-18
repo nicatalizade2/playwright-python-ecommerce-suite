@@ -1,6 +1,6 @@
 # 🛒 DemoBlaze Modern Playwright Framework
 
-[[Watch the video]](https://www.youtube.com/watch?v=q0QEf08jnb4&t=1s)
+[[WATCH THE VIDEO]](https://www.youtube.com/watch?v=q0QEf08jnb4&t=1s)
 
 [[Python]](https://www.python.org)
 [[Playwright]](https://playwright.dev)
