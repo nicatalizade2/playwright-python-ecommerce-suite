@@ -1,11 +1,11 @@
 # 🛒 DemoBlaze Modern Playwright Framework
 
-[![Watch the video](https://img.shields.io)](https://www.youtube.com/watch?v=q0QEf08jnb4&t=1s)
+[![Watch the video]](https://www.youtube.com/watch?v=q0QEf08jnb4&t=1s)
 
-[![Python](https://img.shields.io)](https://www.python.org)
-[![Playwright](https://img.shields.io)](https://playwright.dev)
-[![Docker](https://img.shields.io)](https://www.docker.com)
-[![CI/CD](https://img.shields.io)](https://github.com)
+[![Python]](https://www.python.org)
+[![Playwright]](https://playwright.dev)
+[![Docker]](https://www.docker.com)
+[![CI/CD]](https://github.com)
 
 An end-to-end automation framework designed for the **DemoBlaze** platform. This project demonstrates a professional-grade testing architecture including UI/API testing, database validation, and full containerization.
 
