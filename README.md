@@ -12,7 +12,7 @@ An end-to-end automation framework designed for the **DemoBlaze** platform. This
 ## 🏗️ Architecture & Workflow
 Below is the high-level system design of the testing environment:
 
-[[Architecture Diagram]](https://github-production-user-asset-6210df.s3.amazonaws.com/47668301/565523528-a366cef9-3d7b-43d2-be31-a2f5f1e1c600.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260318%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260318T114525Z&X-Amz-Expires=300&X-Amz-Signature=7ef6fdadcee8b843fa73af5c8f783011951f6c370145aeb9f46501b436505062&X-Amz-SignedHeaders=host)
+[[Architecture Diagram]](assets/architecture.png)
 
 
 ---
