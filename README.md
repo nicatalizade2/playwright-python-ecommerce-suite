@@ -1,6 +1,7 @@
 # 🛒 DemoBlaze Modern Playwright Framework
 
 [![Python](https://img.shields.io)](https://www.python.org)
+[![Python](https://img.shields.io)](https://www.python.org)
 [![Playwright](https://img.shields.io)](https://playwright.dev)
 [![Docker](https://img.shields.io)](https://www.docker.com)
 [![CI/CD](https://img.shields.io)](https://github.com)
